@@ -16,7 +16,7 @@ The DFN framework is implemented based on Python and TensorFlow with a GPU. We u
 
 **Step 3.** Clone this DeepFunctionalNetwork repository.
 ```sh
-> git clone https://github.com/dfn-sensys2020/DeepFunctionalNetwork.git
+> git clone https://github.com/learning1234embed/DeepFunctionalNetwork.git
 Cloning into 'DeepFunctionalNetwork'...
 remote: Enumerating objects: 3, done.
 remote: Counting objects: 100% (3/3), done.
